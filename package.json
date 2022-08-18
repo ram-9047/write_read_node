@@ -1,0 +1,24 @@
+{
+  "name": "read_write_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "start-server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ram-9047/write_read_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ram-9047/write_read_node/issues"
+  },
+  "homepage": "https://github.com/ram-9047/write_read_node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
