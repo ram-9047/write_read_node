@@ -53,8 +53,8 @@ const requestHandler = (req, res) => {
 //------1st way to exports
 // module.exports = requestHandler;
 
+//--------- 2nd way to exports
 
-//--------- 2nd way to exports 
 module.exports = {
   handler: requestHandler,
 };
